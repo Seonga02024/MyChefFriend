@@ -1,5 +1,6 @@
 # MyChefFriend
 
+please! play Game in your phone!!!!!! not support web....
 Game Link : https://play.unity.com/mg/other/webgl-builds-365117
 
 ### 1️⃣ 프로젝트 소개
